@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Chess Studio",
+  "description": "Play chess with AI or 2 players, move validation, clocks, PGN export, game review, and move analysis badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
