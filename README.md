@@ -1,11 +1,36 @@
-<div align="center">
+# ♟️ Chess Game
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+![Chess Game Banner](chess-banner.png)
 
-  <h1>Built with AI Studio</h2>
+A chess game project built for an enjoyable strategic gaming experience.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🎮 Features
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- ♟️ Classic chess gameplay
+- 👑 All standard chess pieces
+- ♜ Strategic two-player matches
+- 🎨 Clean, responsive interface
 
-</div>
+## 🚀 Getting Started
+
+1. Clone or download this repository.
+2. Make sure `chess-banner.png` is in the project folder.
+3. Open the project's `index.html` file in your browser.
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Preview
+
+The banner above showcases the chess game's visual theme.
+
+## 📄 License
+
+Add your preferred license here.
+
+---
+
+**Think • Plan • Win** ♟️
